@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and local settings
+.env
+
+# The chatbot's saved memory (personal chat data)
+task2_memory_chatbot/data/
+
+# Editor / tool settings
+.claude/

@@ -1,0 +1,4 @@
+streamlit          # the chat web UI
+ollama             # talks to the local LLM running in the Ollama app
+chromadb           # vector database that stores every Q&A
+python-dotenv      # loads optional settings from the .env file
