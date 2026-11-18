@@ -1,4 +1,4 @@
-# AI Backend Intern Assignment
+# Memory Chatbot 
 
 Voice companion, WhatsApp and memory RAG. This repo has both parts of the assignment.
 
