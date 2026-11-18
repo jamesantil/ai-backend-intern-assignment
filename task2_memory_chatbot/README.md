@@ -12,7 +12,7 @@ Everything runs locally: no API key, no cloud, no cost.
 
 ## Demo
 
-Demo video: link coming soon.
+**[▶ Watch the demo video](https://drive.google.com/file/d/11nAaxObgZ5ezL5nCMwHSgUSugIm_sTM_/view?usp=sharing)**
 
 The video shows:
 1. **The bot learns about you.** After 5 messages it learns your likes, dislikes and facts, shown in the sidebar.

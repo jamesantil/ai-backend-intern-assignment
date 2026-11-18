@@ -6,7 +6,7 @@ Voice companion, WhatsApp and memory RAG. This repo has both parts of the assign
 |---|---|---|
 | **Task 1** | Architecture design doc (2 pages, one diagram per system): a voice AI companion for 100k users, and an LLM backend on WhatsApp | [`task1_architecture/Architecture_Design_Doc.pdf`](task1_architecture/Architecture_Design_Doc.pdf) |
 | **Task 2** | A Streamlit RAG chatbot that saves every Q&A in a vector DB, learns your preferences every 5 questions and uses them in new conversations | [`task2_memory_chatbot/`](task2_memory_chatbot/) |
-| **Demo** | A video walkthrough: the bot learns preferences, uses them in a new conversation, and handles a change of mind | Demo video: link coming soon |
+| **Demo** | A video walkthrough: the bot learns preferences, uses them in a new conversation, and handles a change of mind | [▶ Watch the demo video](https://drive.google.com/file/d/11nAaxObgZ5ezL5nCMwHSgUSugIm_sTM_/view?usp=sharing) |
 
 ## How the two tasks fit together
 
